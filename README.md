@@ -12,7 +12,7 @@
 
 
 # Repository link
-
+https://github.com/chickengong/work-schedule-calendar
 
 # Web site link
 
